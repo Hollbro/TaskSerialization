@@ -1,0 +1,6 @@
+C:\Users\ibs_admin\Desktop\123\TaskSerialization\TaskSerialization\bin\Debug\TaskSerialization.exe.config
+C:\Users\ibs_admin\Desktop\123\TaskSerialization\TaskSerialization\bin\Debug\TaskSerialization.exe
+C:\Users\ibs_admin\Desktop\123\TaskSerialization\TaskSerialization\bin\Debug\TaskSerialization.pdb
+C:\Users\ibs_admin\Desktop\123\TaskSerialization\TaskSerialization\obj\Debug\TaskSerialization.csprojResolveAssemblyReference.cache
+C:\Users\ibs_admin\Desktop\123\TaskSerialization\TaskSerialization\obj\Debug\TaskSerialization.exe
+C:\Users\ibs_admin\Desktop\123\TaskSerialization\TaskSerialization\obj\Debug\TaskSerialization.pdb
